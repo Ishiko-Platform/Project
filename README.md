@@ -4,7 +4,7 @@ The Ishiko Platform is a platform to create and deploy desktop and web applicati
 
 ## Contents
 
-- [ADL](https://github.com/Ishiko-Platform/ADL): The plaform uses an Application Description Language to describle the applications.
+- [ADL](https://github.com/Ishiko-Platform/ADL): The plaform uses an Application Description Language to describe the applications.
 - [WebEngine](https://github.com/Ishiko-Platform/WebEngine): An engine to run a web application.
 - [wxWidgetsEngine](https://github.com/Ishiko-Platform/wxWidgetsEngine): A UI engine based on [wxWidgets](https://www.wxwidgets.org/).
 
