@@ -1,15 +1,3 @@
-# Ishiko/Platform - Project Documentation
-
-The Ishiko Platform is a platform to create and deploy desktop and web applications.
-
-## Contents
-
-- [ADL](https://github.com/Ishiko-Platform/ADL): The plaform uses an Application Description Language to describle the applications.
-- [WebEngine](https://github.com/Ishiko-Platform/WebEngine): An engine to run a web application.
-- [wxWidgetsEngine](https://github.com/Ishiko-Platform/wxWidgetsEngine): A UI engine based on [wxWidgets](https://www.wxwidgets.org/).
-
-## License
-
 Copyright (c) 2020 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
